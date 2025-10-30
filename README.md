@@ -24,8 +24,8 @@ This infrastructure follows a **two-branch strategy**:
 - AWS CLI configured with appropriate credentials
 - GitHub account with repository access
 - IAM permissions for VPC, EKS, EC2, and IAM resources
-
-- ## Workflow
+  
+## Workflow
 
 ### Staging Branch Workflow
 1. Create feature branch from `staging`
